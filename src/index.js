@@ -1,4 +1,3 @@
-import React,{ useEffect, useState } from 'react'
 import ReactDOM from 'react-dom'
 import { faHome, faUser, faCog } from '@fortawesome/free-solid-svg-icons'
 import { Nav } from '@intility/bifrost-react'
